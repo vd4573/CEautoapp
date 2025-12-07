@@ -99,7 +99,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
 
 # Main Content
-st.title("🎨 Mandala Art Generator")
+st.title("🎨 Viveks Mandala Arts")
 st.markdown("<p style='font-size: 1.2rem; opacity: 0.8;'>Transform words into intricate, symmetrical masterpieces.</p>", unsafe_allow_html=True)
 
 # Main Logic
